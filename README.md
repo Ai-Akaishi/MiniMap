@@ -25,6 +25,8 @@ If you hold the recovery compass in your offhand, you will see a 17x17 mini-map.
 洞窟などの形も綺麗に表示されます！  
 It'll even show you little things like flowers, ladders, etc.!  
 And shapes like caves, etc. will show up nicely!  
+  
+![ミニマップサンプル](https://user-images.githubusercontent.com/39216832/184330751-bee37a10-9026-420b-9767-cb07c09d2e3e.png)
 
 ## 対応アイテムの変え方 / How to change the items needed to display the mini-map.
 
