@@ -1,0 +1,18 @@
+[
+    {
+        "function": "minecraft:set_nbt",
+        "conditions": [
+            {
+                "condition": "minecraft:location_check",
+                "predicate": {
+                    "block": {
+                        "blocks": [
+                            "minecraft:air"
+                        ]
+                    }
+                }
+            }
+        ],
+        "tag": "{pic:{2:'\",,,,2\"'}}"
+    }
+]

@@ -1,0 +1,24 @@
+{
+	"condition": "alternative",
+	"terms": [
+		{
+			"condition": "location_check",
+			"predicate": {
+				"light": {
+					"light": {
+						"min": 1,
+						"max": 15
+					}
+				}
+			}
+		},
+		{
+			"condition": "location_check",
+			"predicate": {
+				"block": {
+					"tag": "mini_map:transparent"
+				}
+			}
+		}
+	]
+}

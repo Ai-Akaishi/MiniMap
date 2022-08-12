@@ -1,0 +1,16 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "chip:player.png",
+            "height": 4.0,
+            "ascent": -32.0,
+            "chars": [
+                "0123",
+                "4567",
+                "89ab",
+                "cdef"
+            ]
+        }
+    ]
+}

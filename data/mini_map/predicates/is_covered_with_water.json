@@ -1,0 +1,19 @@
+{
+	"condition": "alternative",
+	"terms": [
+		{
+			"condition": "location_check",
+			"predicate": {
+				"light": {
+					"light": {
+						"min": 1,
+						"max": 15
+					}
+				},
+				"fluid": {
+					"fluid": "minecraft:water"
+				}
+			}
+		}
+	]
+}

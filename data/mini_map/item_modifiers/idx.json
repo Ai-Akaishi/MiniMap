@@ -1,0 +1,44 @@
+[
+    {
+        "function": "minecraft:copy_nbt",
+        "ops": [
+            {
+                "source": "Item.tag.1",
+                "target": "data",
+                "op": "append"
+            }
+        ],
+        "source": {
+            "type": "context",
+            "target": "this"
+        }
+    },
+    {
+        "function": "minecraft:copy_nbt",
+        "ops": [
+            {
+                "source": "Item.tag.2",
+                "target": "data",
+                "op": "append"
+            }
+        ],
+        "source": {
+            "type": "context",
+            "target": "this"
+        }
+    },
+    {
+        "function": "minecraft:copy_nbt",
+        "ops": [
+            {
+                "source": "Item.tag.3",
+                "target": "data",
+                "op": "append"
+            }
+        ],
+        "source": {
+            "type": "context",
+            "target": "this"
+        }
+    }
+]
